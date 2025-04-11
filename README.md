@@ -1,6 +1,6 @@
 <html>
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudpost03.cloudpost03&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devopsbypravin.devopsbypravin&"  />
 </div>
 # 💻 DevOps | Cloud Architect | Automation 
 <a
@@ -73,8 +73,8 @@
 ---
 ### 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudpost03&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudpost03&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsbypravin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devopsbypravin&layout=compact&theme=radical)
 
 ---
 
