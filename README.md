@@ -1,6 +1,6 @@
 <html>
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devopsbypravin.devopsbypravin&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pravinkr011.pravinkr011&"  />
 </div>
 # 💻 DevOps | Cloud Architect | Automation 
 <a
@@ -80,7 +80,7 @@
 
 ### 🤝 Let's Connect:
 
-- - 💼 [LinkedIn](https://linkedin.com/in/devopsbypravin) 
+- - 💼 [LinkedIn](https://linkedin.com/in/pravinkr011) 
 - 📝 [Dev.to](https://dev.to/cloudpost03
 - ✉️ Reach me at: [cloudpost03@gmail.com](mailto:cloudpost03@gmail.com)
 
@@ -99,7 +99,7 @@ I love **problem-solving** and **system optimization**, but I’m also a big fan
 **Thank you for visiting my GitHub profile!** Let's build, automate, and innovate together! 🌟
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/devopsbypravin/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/pravinkr011/count.svg?"  />
 </div>
 
 </html>
