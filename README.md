@@ -1,4 +1,17 @@
 <html>
+
+<!-- 🔥 Banner Section -->
+<div align="center">
+  <a href="https://github.com/pravinkr011">
+    <!-- Replace this with your own banner image -->
+    <img src="https://raw.githubusercontent.com/pravinkr011/pravinkr011/main/banner.png" 
+         alt="Pravin Kumar | DevOps & Cloud Engineer Banner" 
+         style="width:100%; max-height:250px; border-radius:10px;" />
+  </a>
+</div>
+
+<br/>
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pravinkr011.pravinkr011&" />
 </div>
@@ -15,7 +28,6 @@
         style="width: 1em; margin-right: 0.5em;" />
    https://orcid.org/0009-0009-5897-7096
 </a>
-
 
 <a target="_blank" align="center">
   <img
@@ -113,4 +125,5 @@ I'm **Pravin Kumar**, a passionate **DevOps Engineer** and **Cloud Enthusiast**,
 <div align="center">
   <img src="https://profile-counter.glitch.me/pravinkr011/count.svg?" />
 </div>
+
 </html>
