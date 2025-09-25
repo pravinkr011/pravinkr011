@@ -5,21 +5,17 @@
 
 <h1 align="center">💻 DevOps | Cloud Architect | Automation</h1>
 
-<a
-  id="cy-effective-orcid-url"
-  class="underline"
-  href="https://orcid.org/0009-0009-5897-7096"
-  target="orcid.widget"
-  rel="me noopener noreferrer"
-  style="vertical-align: top"
->
-  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"
-  />
-  https://orcid.org/0009-0009-5897-7096
+<a id="cy-effective-orcid-url"
+   href="https://orcid.org/0009-0009-5897-7096"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="vertical-align: middle; text-decoration: none;">
+   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        alt="ORCID iD icon"
+        style="width: 1em; margin-right: 0.5em;" />
+   https://orcid.org/0009-0009-5897-7096
 </a>
+
 
 <a target="_blank" align="center">
   <img
