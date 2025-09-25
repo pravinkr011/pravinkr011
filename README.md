@@ -89,8 +89,8 @@ I'm **Pravin Kumar**, a passionate **DevOps Engineer** and **Cloud Enthusiast**,
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devopsbypravin&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsbypravin&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pravinkr011&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkr011&layout=compact&theme=radical" />
 </div>
 
 ---
