@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/pravinkr011">
     <!-- Replace this with your own banner image -->
-    <img src="https://raw.githubusercontent.com/pravinkr011/pravinkr011/main/banner.png" 
+    <img src="https://raw.githubusercontent.com/pravinkr011/pravinkr011/master/banner.png" 
          alt="Pravin Kumar | DevOps & Cloud Engineer Banner" 
          style="width:100%; max-height:250px; border-radius:10px;" />
   </a>
